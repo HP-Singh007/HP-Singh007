@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @HP-Singh007
+- 👋 Hi, I’m Harmanpreet Singh
 - 👀 I’m interested in PROGRAMMING
-- 🌱 I’m currently learning C++
+- 👀 FUllSTACK DEVELOPER
+- 🌱 Skills - C++, Html, Css, JavaScript, NodeJS, MongoDB, ExpressJS, ReactJS
 
 
 <!---

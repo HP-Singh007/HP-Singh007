@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hp-singh007&label=Profile%20views&color=0e75b6&style=flat" alt="hp-singh007" /> </p>
 
-- 🔭 I’m currently working on [E-Mart](https://hp-singh007.github.io/EMart)
+- 🔭 I’m currently working on project - [E-Mart](https://hp-singh007.github.io/EMart)
 
 - 🌱 I’m currently learning **React JS, Node JS**
 
